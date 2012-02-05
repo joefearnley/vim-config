@@ -1,0 +1,10 @@
+set tabstop=4
+set shiftwidth=4
+set expandtab
+set nowrap
+set number
+set vb
+set guifont=Droid\ Sans\ Mono\ 8
+set noswapfile
+syntax on
+colorscheme molokai
