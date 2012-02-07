@@ -1,3 +1,3 @@
 My configuration files for gVim, MacVim, and vim in the terminal. Things are tweaked based on the operating system because of fonts, system setttings, etc...
 
-__TODO:__ Consider cerating a single gvim file for all OS's. Also consider using something like [janus](https://github.com/carlhuda/janus).
+__TODO:__ Consider creating a single .(g)vimrc file for all OS's. Also consider using something like [janus](https://github.com/carlhuda/janus).
